@@ -1,2 +1,2 @@
 # ECEN-615
-Code for ECEN 615.
+ECEN 615 - Methods of Electric Power Systems Analysis.
