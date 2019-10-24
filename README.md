@@ -5,3 +5,5 @@ Requires .txt input containing Ybus information (in matlab format).
 
 Run the code in the following manner: 'tinney1.py ybus.txt'
 The same applies for tinney2.py
+
+ISF.py does Injection Shift Factor and following calculations.
